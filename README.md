@@ -3,7 +3,7 @@
 
 **Course Date:** 08.03.2021  
 **Name:** İçimi
-**Surname:** Demirağ  
+**Surname** Demirağ
 **Email:** icimidemirag@gmail.com  
 
  
