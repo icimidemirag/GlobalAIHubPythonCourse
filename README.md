@@ -2,8 +2,8 @@
 ![](img/logo.png)
 
 **Course Date:** 08.03.2021  
-**Name:** İçimi
-**Surname** Demirağ
+**Name:** İçimi  
+**Surname** Demirağ  
 **Email:** icimidemirag@gmail.com  
 
  
