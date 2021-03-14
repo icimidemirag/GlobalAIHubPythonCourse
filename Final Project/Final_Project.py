@@ -11,7 +11,7 @@
 questions = {"Türkiye'nin başkenti neresidir?":"ankara",
              "Facebook hangi dille yazılmıştır?":"php",
              "Corona hangi yıl çıkmıştır?":"2019",
-             "Cumhuriyetin ilanı hangi yıl olmuştur?":"1920",
+             "Cumhuriyetin ilanı hangi yıl olmuştur?":"1923",
              "İlk cumhurbaşkanımızın adı nedir?":"mustafa kemal",
              "Halifelik kaç yılında kaldırılmıştır?":"1924",
              "Zorunlu eğitim kaç yıldır?":"12",
